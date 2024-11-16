@@ -30,7 +30,7 @@ const Header = () => {
                         className="w-full h-full rounded-md px-2 placeholder:text-sm text-black border-[3px] border-transparent focus:outline-none focus:border-amazon_yellow"
                         type="text" placeholder="Search amazon products"/>
                     <span
-                        className="w-12 h-full bg-amazon_yellow text-black text-3xl flex items-center justify-center absolute right-0 rounded-md rounded-br-md">
+                        className="w-12 h-full bg-amazon_yellow text-black text-3xl flex items-center justify-center absolute right-0 rounded-tr-md rounded-br-md">
                         <HiOutlineSearch/>
                     </span>
                 </div>
